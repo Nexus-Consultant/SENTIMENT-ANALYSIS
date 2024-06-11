@@ -1,10 +1,10 @@
 # SENTIMENT-ANALYSIS
-This project aims to perform sentiment analysis on the TikTok application using user comments data obtained from the Google Play Store. The methods used in this analysis include Support Vector Machine (SVM), Decision Tree, and Naive Bayes Multinomial.
+This project aims to perform sentiment analysis on the TikTok application using user comments data obtained from the Google Play Store in Indonesian. The methods used in this analysis include Support Vector Machine (SVM), Decision Tree, and Naive Bayes Multinomial.
 
 
 
 **Project Description**
-The TikTok application has become a global phenomenon with millions of users worldwide. In this project, we utilize user comments data from the Play Store to understand the general sentiment towards the application. We implement several classification models to analyze the sentiment of these comments and compare the performance of each model.
+The TikTok application has become a global phenomenon with millions of users worldwide. In this project, we used user comment data from the Play Store in Indonesian to understand general sentiment towards the app. We implement several classification models to analyze the sentiment of these comments and compare the performance of each model.
 
 
 
